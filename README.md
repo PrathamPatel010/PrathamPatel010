@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Backend Engineering<br>💬 Ask me about Node,Express,React,Databases,APIs,DSA.<br>⚡ Fun fact : Truth is I am Iron Man
+🌱 I’m currently learning Backend Engineering<br>💬 Ask me about Node,Express,React,Databases,APIs,DSA.<br>⚡ Fun fact : I am Iron Man
 
 
 ## 🌐 Socials:
