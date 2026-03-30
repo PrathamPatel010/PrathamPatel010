@@ -1,44 +1,58 @@
 <h1>Hi, I'm Pratham 👋</h1>
-<h3>Full Stack Engineer | Backend Focused | Tech Enthusiast</h3>
+<h3>Software Engineer | Angular & .NET | Building Real-World Systems</h3>
 
 ---
 
 ### 🚀 About Me
 
-- 🧑‍💻 Recent Computer Science Graduate  
-- 💼 Completed a 6-month Software Engineering Internship at **System Level Solutions India Pvt. Ltd.**  
-- ⚙️ Currently building real-world projects and freelancing  
-- 🌱 Learning advanced software development and system design  
-- 🧠 Ask me about **Node.js, Express, ASP.NET, Angular, React, MongoDB, PostgreSQL**
+- 💼 Currently working as a **Jr. Software Engineer at Adrta Technologies**
+- 🧑‍💻 Experience building and maintaining **enterprise pharma management systems**
+- ⚙️ Owned development of core modules including database design, backend logic, and frontend implementation
+- 🧩 Built a centralized error logging system adopted across multiple products
+- 🔐 Worked on resolving edge-case issues in SSO authentication flows
+- 🌱 Continuously improving in system design and scalable backend development
 
 ---
 
 ### 🧰 Tech Stack
 
-#### 👨‍💻 Languages & Core Skills
-- JavaScript, TypeScript, C#, Java
+#### 👨‍💻 Core
+- JavaScript, TypeScript, C#
 
 #### 🌐 Frontend
-- Angular, React.js, Tailwind CSS, HTML, CSS
+- Angular, HTML, CSS, Tailwind
 
-#### 🛠 Backend & Web APIs
-- ASP.NET, Node.js, Express.js, Nest.js
+#### 🛠 Backend
+- ASP.NET Core, Node.js, Express.js
+- REST APIs, Authentication (JWT)
 
-#### ⚙️ Architecture & Real-time Tech
-- SignalR, MQTT, Rasa conversational AI, RESTful & Microservice architecture
+#### 🗄️ Database
+- SQL Server, PostgreSQL, MongoDB, Redis
+- Entity Framework Core
 
-#### 🗄️ Databases & Caching
-- PostgreSQL, MongoDB, Redis, ORM: Prisma, Sequelize, Entity Framework Core
+#### ⚙️ Other
+- MQTT, SignalR (real-time systems)
 
-#### ☁️ Dev Tools & Cloud
-- Git, GitHub, Postman, VS Code, Microsoft Azure deployment services
+#### 🧪 Tools
+- Git, GitHub, Postman, VS Code
+
+---
+
+### 📌 What I Focus On
+
+- Writing clean, maintainable backend logic  
+- Designing reliable data flows and database schemas  
+- Building features that are actually used in production  
+- Solving real-world problems instead of just demo projects  
 
 ---
 
 ### 📬 Contact Me
 
-If you think I’d be a good fit for your team or just want to connect, feel free to reach out:
+If you think I’d be a good fit for your team or want to connect:
 
 **📧 Email:** `prathampatel0221@gmail.com`
 
-> “Stay consistent. Stay patient. The real wins take time.”
+---
+
+> Building steadily. Improving every day.
